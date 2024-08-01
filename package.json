@@ -1,0 +1,37 @@
+{
+  "name": "array-jar",
+  "version": "1.0.1",
+  "description": "A utility package for enhanced array methods with additional features and robust error handling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iammayank18/array-utils.git"
+  },
+  "keywords": [
+    "array",
+    "utilities",
+    "methods",
+    "enhanced",
+    "helper"
+  ],
+  "author": "Mayank <github.com/iammayank18>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iammayank18/array-utils/issues"
+  },
+  "homepage": "https://github.com/Iammayank18/array-utils#readme",
+  "dependencies": {
+    "core-js": "^3.37.1",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
