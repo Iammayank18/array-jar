@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Iammayank18/array-utils.git"
+    "url": "git+https://github.com/Iammayank18/array-jar.git"
   },
   "keywords": [
     "array",
@@ -20,9 +20,9 @@
   "author": "Mayank <github.com/iammayank18>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Iammayank18/array-utils/issues"
+    "url": "https://github.com/Iammayank18/array-jar.git/issues"
   },
-  "homepage": "https://github.com/Iammayank18/array-utils#readme",
+  "homepage": "https://github.com/Iammayank18/array-jar.git#readme",
   "dependencies": {
     "core-js": "^3.37.1",
     "regenerator-runtime": "^0.14.1"
